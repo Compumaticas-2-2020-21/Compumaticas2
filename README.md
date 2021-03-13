@@ -1,8 +1,8 @@
 # COMPUMATICAS 2
 
-##Programas de Víctor Oruño
+## Programas de Víctor Oruño
 
--Simulaciones
--Juegos
--Processing
--p5js
+- Simulaciones
+- Juegos
+- Processing
+- p5js
